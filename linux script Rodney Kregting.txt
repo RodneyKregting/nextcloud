@@ -1,3 +1,4 @@
+echo Hallo mensen
 #!/bin/bash
 clear
 herstarten=y
