@@ -1,0 +1,9 @@
+# Vul in eigen woorden aan wat de commando, die hieronder staan, doen:
+
+#git status = geeft de status van git
+#git init = maakt een nieuwe repo aan
+#git diff = laat het verschil zien
+#git reset = reset de git
+#git rm = removed een git
+#git log = laat alles zien
+#git stash = laat commands zien om dingen te maken
